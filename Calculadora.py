@@ -18,7 +18,5 @@ class Calculadora:
             print(int(NumeroUno) / int(NumeroDos))
         Calculadora1.Numeros()
 
-
-
 Calculadora1 = Calculadora()
-Calculadora1.Numeros()
+Calculadora1.Numeros() 
